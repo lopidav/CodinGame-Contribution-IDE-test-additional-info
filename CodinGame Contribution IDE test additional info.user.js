@@ -2,7 +2,7 @@
 // @name         CodinGame Contribution IDE test additional info
 // @namespace    https://lopidav.com/
 // @version      0.1
-// @description  Adds timer and cod length counter to contribution testing IDE
+// @description  Adds timer and code length counter to contribution testing IDE
 // @author       lopidav
 // @match        https://www.codingame.com/*
 // @require      http://code.jquery.com/jquery-latest.js
